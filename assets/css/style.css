@@ -299,7 +299,7 @@ h3 {
   border-bottom: 5px solid #24305e;
 }
 
-#intro.section .teal {
+#intro.section .pink {
   padding: 0 10px;
 }
 
@@ -490,15 +490,15 @@ small {
   color: #666 !important;
 }
 
-/* main .teal-text */
+/* main .pink-text */
 
-.teal-text {
+.pink-text {
   color: #e0218a !important;
 }
 
-/* .teal */
+/* .pink */
 
-.teal {
+.pink {
   background-color: #e0218a !important;
 }
 
