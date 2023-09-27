@@ -124,7 +124,7 @@ body {
 }
 
 a {
-  color: #004d40;
+  color: #e0218a;
 }
 
 /* main blockqoute */
@@ -499,7 +499,7 @@ small {
 /* .teal */
 
 .teal {
-  background-color: #008073 !important;
+  background-color: #e0218a !important;
 }
 
 @media (min-width: 1200px) {
